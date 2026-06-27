@@ -9,7 +9,7 @@ int main() {
 
     srand(time(NULL)); // garante números aleatórios diferentes a cada execução
     int dado = rand() % 20;
-    exibirOpcoesDraft(BancoDeCopas, dado);
+    exibirDraft(BancoDeCopas, dado);
 
     return 0;
 }

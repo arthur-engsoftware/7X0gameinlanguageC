@@ -7,6 +7,17 @@
 #include <time.h>
 #include "bancodedados.h"
 
+typedef struct {
+    Jogador goleiro;
+    Jogador zagueiro;
+    Jogador meio;
+    Jogador atacante;
+    int possuiGol;
+    int possuiZag;
+    int possuiMei;
+    int possuiAta;
+} TimeUsuario;
+
 void inicializarTime(TimeUsuario *time) {
     time->possuiGol = 0;
     time->possuiZag = 0;
