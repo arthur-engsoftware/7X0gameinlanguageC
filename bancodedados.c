@@ -4,84 +4,84 @@ Copa BancoDeCopas[20] = {
     // --- ERA CLÁSSICA ---
     {
         "Brasil 1970",
-        {{"Pele", "ATA", 98}, {"Rivelino", "MEI", 92}, {"Tostao", "ATA", 89}, {"Carlos Alberto", "ZAG", 91}}
+        {{"Felix", "GOL", 82}, {"Carlos Alberto", "ZAG", 91}, {"Rivelino", "MEI", 92}, {"Pele", "ATA", 98}}
     },
     {
         "Holanda 1974",
-        {{"Cruyff", "MEI", 96}, {"Neeskens", "MEI", 89}, {"Rensenbrink", "ATA", 87}, {"Krol", "ZAG", 88}}
+        {{"Jongbloed", "GOL", 80}, {"Krol", "ZAG", 88}, {"Cruyff", "MEI", 96}, {"Rensenbrink", "ATA", 87}}
     },
     {
         "Alemanha O. 1974",
-        {{"Gerd Muller", "ATA", 94}, {"Beckenbauer", "ZAG", 95}, {"Sepp Maier", "GOL", 90}, {"Overath", "MEI", 87}}
+        {{"Sepp Maier", "GOL", 90}, {"Beckenbauer", "ZAG", 95}, {"Overath", "MEI", 87}, {"Gerd Muller", "ATA", 94}}
     },
     {
         "Argentina 1986",
-        {{"Maradona", "MEI", 97}, {"Valdano", "ATA", 86}, {"Burruchaga", "MEI", 85}, {"Ruggeri", "ZAG", 86}}
+        {{"Pumpido", "GOL", 83}, {"Ruggeri", "ZAG", 86}, {"Maradona", "MEI", 97}, {"Valdano", "ATA", 86}}
     },
     {
         "Brasil 1994",
-        {{"Romario", "ATA", 95}, {"Bebeto", "ATA", 89}, {"Dunga", "MEI", 86}, {"Taffarel", "GOL", 87}}
+        {{"Taffarel", "GOL", 87}, {"Aldair", "ZAG", 86}, {"Dunga", "MEI", 86}, {"Romario", "ATA", 95}}
     },
     {
         "Franca 1998",
-        {{"Zidane", "MEI", 94}, {"Henry", "ATA", 87}, {"Desailly", "ZAG", 88}, {"Barthez", "GOL", 85}}
+        {{"Barthez", "GOL", 85}, {"Desailly", "ZAG", 88}, {"Zidane", "MEI", 94}, {"Henry", "ATA", 87}}
     },
     // --- ANOS 2000 A 2010 ---
     {
         "Brasil 2002",
-        {{"Ronaldo Fenomeno", "ATA", 96}, {"Rivaldo", "MEI", 92}, {"Ronaldinho Gaucho", "MEI", 90}, {"Marcos", "GOL", 86}}
+        {{"Marcos", "GOL", 86}, {"Lucio", "ZAG", 87}, {"Ronaldinho Gaucho", "MEI", 90}, {"Ronaldo Fenomeno", "MAI", 96}}
     },
     {
         "Alemanha 2002",
-        {{"Oliver Kahn", "GOL", 91}, {"Michael Ballack", "MEI", 89}, {"Klose", "ATA", 85}, {"Linke", "ZAG", 82}}
+        {{"Oliver Kahn", "GOL", 91}, {"Linke", "ZAG", 82}, {"Michael Ballack", "MEI", 89}, {"Klose", "ATA", 85}}
     },
     {
         "Italia 2006",
-        {{"Cannavaro", "ZAG", 92}, {"Buffon", "GOL", 93}, {"Pirlo", "MEI", 91}, {"Totti", "MEI", 89}}
+        {{"Buffon", "GOL", 93}, {"Cannavaro", "ZAG", 92}, {"Pirlo", "MEI", 91}, {"Totti", "ATA", 89}} // Totti adaptado para ATA/Segundo Atacante
     },
     {
         "Franca 2006",
-        {{"Zidane", "MEI", 93}, {"Henry", "ATA", 90}, {"Vieira", "MEI", 88}, {"Ribery", "ATA", 84}}
+        {{"Barthez", "GOL", 84}, {"Thuram", "ZAG", 89}, {"Zidane", "MEI", 93}, {"Henry", "ATA", 90}}
     },
     {
         "Espanha 2010",
-        {{"Iniesta", "MEI", 92}, {"Xavi", "MEI", 92}, {"Casillas", "GOL", 91}, {"Puyol", "ZAG", 89}}
+        {{"Casillas", "GOL", 91}, {"Puyol", "ZAG", 89}, {"Iniesta", "MEI", 92}, {"David Villa", "ATA", 90}}
     },
     {
         "Holanda 2010",
-        {{"Robben", "ATA", 90}, {"Sneijder", "MEI", 91}, {"Van Persie", "ATA", 87}, {"Van Bommel", "MEI", 83}}
+        {{"Stekelenburg", "GOL", 82}, {"Heitinga", "ZAG", 81}, {"Sneijder", "MEI", 91}, {"Robben", "ATA", 90}}
     },
     // --- ANOS 2014 A 2026 ---
     {
         "Alemanha 2014",
-        {{"Thomas Muller", "ATA", 89}, {"Kroos", "MEI", 90}, {"Lahm", "ZAG", 91}, {"Neuer", "GOL", 93}}
+        {{"Neuer", "GOL", 93}, {"Lahm", "ZAG", 91}, {"Kroos", "MEI", 90}, {"Thomas Muller", "ATA", 89}}
     },
     {
         "Argentina 2014",
-        {{"Lionel Messi", "ATA", 94}, {"Mascherano", "MEI", 87}, {"Di Maria", "MEI", 86}, {"Romero", "GOL", 83}}
+        {{"Romero", "GOL", 83}, {"Garay", "ZAG", 82}, {"Di Maria", "MEI", 86}, {"Lionel Messi", "ATA", 94}}
     },
     {
         "Franca 2018",
-        {{"Mbappe", "ATA", 90}, {"Griezmann", "MEI", 88}, {"Kante", "MEI", 89}, {"Varane", "ZAG", 87}}
+        {{"Lloris", "GOL", 86}, {"Varane", "ZAG", 87}, {"Kante", "MEI", 89}, {"Mbappe", "ATA", 90}}
     },
     {
         "Croacia 2018",
-        {{"Modric", "MEI", 91}, {"Rakitic", "MEI", 86}, {"Perisic", "ATA", 84}, {"Subasic", "GOL", 83}}
+        {{"Subasic", "GOL", 83}, {"Lovren", "ZAG", 82}, {"Modric", "MEI", 91}, {"Perisic", "ATA", 84}}
     },
     {
         "Argentina 2022",
-        {{"Lionel Messi", "ATA", 96}, {"Di Maria", "ATA", 87}, {"Enzo Fernandez", "MEI", 84}, {"Dibu Martinez", "GOL", 87}}
+        {{"Dibu Martinez", "GOL", 87}, {"Otamendi", "ZAG", 85}, {"Enzo Fernandez", "MEI", 84}, {"Lionel Messi", "ATA", 96}}
     },
     {
         "Franca 2022",
-        {{"Mbappe", "ATA", 93}, {"Griezmann", "MEI", 89}, {"Giroud", "ATA", 83}, {"Lloris", "GOL", 84}}
+        {{"Lloris", "GOL", 84}, {"Varane", "ZAG", 86}, {"Griezmann", "MEI", 89}, {"Mbappe", "ATA", 93}}
     },
     {
         "Marrocos 2022",
-        {{"Ziyech", "MEI", 83}, {"Amrabat", "MEI", 84}, {"Hakimi", "ZAG", 86}, {"Bounou", "GOL", 85}}
+        {{"Bounou", "GOL", 85}, {"Hakimi", "ZAG", 86}, {"Amrabat", "MEI", 84}, {"Ziyech", "ATA", 83}} // Ziyech adaptado para ATA (Ponta)
     },
     {
         "Brasil 2026",
-        {{"Vinicius Jr", "ATA", 92}, {"Rodrygo", "ATA", 88}, {"Bruno Guimaraes", "MEI", 86}, {"Alisson", "GOL", 89}}
+        {{"Alisson", "GOL", 89}, {"Marquinhos", "ZAG", 87}, {"Bruno Guimaraes", "MEI", 86}, {"Vinicius Jr", "ATA", 92}}
     }
 };
